@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Organizator</string>
+    <string name="todo_list_screen">todo_list_screen</string>
+    <string name="edit_todo">editowac</string>
+    <string name="add_item">Dodac</string>
+    <string name="TopAppBarTitleListScreen">Lista Zadań</string>
+    <string name="TopAppBarTitleEditScreen">Editowanie</string>
+
+</resources>
